@@ -1,5 +1,4 @@
 # :newspaper: DoranWorks :newspaper:
-<hr>
 
 ## 목차
 Ⅰ. [프로젝트 소개](#Ⅰ.-프로젝트-소개)<br>
