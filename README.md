@@ -20,8 +20,7 @@
 ---
 ## Ⅱ. 개발환경 및 문서
 ### :wrench: Development Environment
-- `OS` : ![zoq1](https://user-images.githubusercontent.com/109573477/207848494-eab96632-d6f3-46de-9c45-663ade26e69f.png)
----
+- `OS` : <img src="https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=red">
 ## Ⅲ. 구축화면 및 설명
 ---
 ## Ⅳ. Trouble Shooting
