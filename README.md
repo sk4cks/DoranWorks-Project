@@ -20,6 +20,7 @@
 ---
 ## Ⅱ. 개발환경 및 문서
 ### :wrench: Development Environment
+- `OS` : 
 ---
 ## Ⅲ. 구축화면 및 설명
 ---
