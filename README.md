@@ -20,7 +20,8 @@
 ---
 ## Ⅱ. 개발환경 및 문서
 ### :wrench: Development Environment
-- `OS` : <img src="https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=red">
+- `OS` : <img src="https://img.shields.io/badge/windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+- `DB` : <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=ORACLE&logoColor=white">
 ## Ⅲ. 구축화면 및 설명
 ---
 ## Ⅳ. Trouble Shooting
