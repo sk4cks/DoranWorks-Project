@@ -20,7 +20,7 @@
 ---
 ## Ⅱ. 개발환경 및 문서
 ### :wrench: Development Environment
-- `OS` : 
+- `OS` : ![zoq1](https://user-images.githubusercontent.com/109573477/207848494-eab96632-d6f3-46de-9c45-663ade26e69f.png)
 ---
 ## Ⅲ. 구축화면 및 설명
 ---
