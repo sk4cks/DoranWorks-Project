@@ -17,7 +17,7 @@
 
 > 나솔   : 전자결재 / 마이페이지
   
-<br><br>
+<br>
   
 ---
 ## Ⅱ. 개발환경 및 문서
@@ -34,6 +34,7 @@
 ## :wrench: ERD
 ![zoq2](https://user-images.githubusercontent.com/109573477/208663610-faee5923-c2af-41f5-bf11-353764aca725.png)
 
+<br>
 
 -----
 ## Ⅲ. 구축화면 및 설명
