@@ -22,7 +22,7 @@
 ### :wrench: Development Environment
 - `OS` : <img src="https://img.shields.io/badge/windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 - `DB` : <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-- `WAS` : <img src="https://img.shields.io/badge/APACHE TOMCAT 9.0-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
+- `WAS` : <img src="https://img.shields.io/badge/APACHE TOMCAT 9.0-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
 ## Ⅲ. 구축화면 및 설명
 ---
 ## Ⅳ. Trouble Shooting
