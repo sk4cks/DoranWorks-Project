@@ -30,8 +30,6 @@
 <br><br>
 
 ## :wrench: ERD
-<img src="https://user-images.githubusercontent.com/109573477/208663610-faee5923-c2af-41f5-bf11-353764aca725.png" width="700" height="600"/>
-
 ![zoq2](https://user-images.githubusercontent.com/109573477/208663610-faee5923-c2af-41f5-bf11-353764aca725.png)
 
 
