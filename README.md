@@ -25,6 +25,7 @@
 - `WAS` : <img src="https://img.shields.io/badge/APACHE TOMCAT 9.0-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
 - `Tool` : <img src="https://img.shields.io/badge/eGov Framework 4.0-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 - `FrameWork` : <img src="https://img.shields.io/badge/Spring Boot 2.7.3-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+- `Language` : <img src="https://img.shields.io/badge/JAVA 11-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 ## Ⅲ. 구축화면 및 설명
 ---
 ## Ⅳ. Trouble Shooting
