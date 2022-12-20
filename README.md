@@ -37,9 +37,34 @@
 ## Ⅲ. 구축화면 및 설명
 
 <details>
-<summary> 1. 회원 / 게시판</summary>
+<summary> 1. 회원 / 관리자</summary>
   ddd
 </details>
 
+##
+<details>
+<summary> 2. 메신저</summary>
+  ㄴㄴ
+</details>
+
+##
+<details>
+<summary> 3. 쪽지</summary>
+  ㄷㄷ
+</details>
+
+##
+<details>
+<summary> 4. 전자결재</summary>
+  ㄹㄹ
+</details>
+
+##
+<details>
+<summary> 5. 공지사항</summary>
+  ㅎㅎ
+</details>
+
+<br><br>
 ---
 ## Ⅳ. Trouble Shooting
