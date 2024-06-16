@@ -43,35 +43,75 @@
 
 <details>
 <summary> 1. 회원 / 관리자</summary>
-### 1)로그인
- <img src="https://github.com/sk4cks/DoranWorks-Project/assets/109573477/342452f3-fbfe-4980-8e33-99ec9534e97b" width="350" height="400" />
+  
+### 1) 로그인
+![image](https://github.com/sk4cks/sk4cks.github.io/assets/109573477/c8420b25-dd79-4d2b-a995-27e7da93d383)
+
+### 2) 비밀번호 찾기
+![image](https://github.com/sk4cks/sk4cks.github.io/assets/109573477/d5f940a3-5ed5-47b6-9586-29175870fed4)
+
+### 3) 마이페이지
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/1f97e8aa-46f3-443e-9505-eca224b9f944)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/0b2cca2e-d7a4-4530-89a2-ec2d78f3383e)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/011493c4-8d13-4bc0-b290-f08984607efb)
+
+### 4) 관리자 페이지
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/c82fcec2-feda-4022-ba70-9b34090df6f6)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/e0c6816b-1702-42b2-827c-ef7fa3c96c0f)
+
+
+<br>
 </details>
 
 ##
 <details>
-<summary> 2. 메신저</summary>
-  ㄴㄴ
+<summary> 2. 메신저</summary> <br/>
+
+![image](https://github.com/sk4cks/sk4cks.github.io/assets/109573477/6eec73da-854c-41ca-a199-9b401c6d4b7b)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/17c5a070-2c78-4fb9-ad0f-d5a46a063551)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/ef0ddebb-891d-4238-b459-bac464d09aea)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/2be2e81f-5670-4d01-9c2b-88208c580f77)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/a887d86a-a0b5-41c6-9c7d-3fd3c11a0fc1)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/ac8b9843-bce2-4bef-a177-74e6a8edd62d)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/be7f305a-3e0a-4f38-aa0e-b2cd4c62dd6f)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/4616f577-ef22-4299-b425-1f240966ca31)
+
 </details>
 
 ##
 <details>
-<summary> 3. 쪽지</summary>
-  ㄷㄷ
+<summary> 3. 쪽지</summary> <br/>
+
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/b8a567d2-8855-49ce-9613-a69d79ba1458)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/656a9898-7b19-4a0d-9884-6abefadf8821)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/308166cf-62c5-4f32-afa7-a164e03d922a)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/67772bb7-af44-48f9-8a0e-01ac59b50e3c)
+
 </details>
 
 ##
 <details>
-<summary> 4. 전자결재</summary>
-  ㄹㄹ
+<summary> 4. 전자결재</summary> <br/>
+
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/36aaeaab-2f65-4027-8666-3e35493c1a01)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/93651925-5a60-495d-861f-b29788176694)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/d1c57fb0-89a3-43ba-a254-d39537747b0f)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/6c9024da-cf8c-45db-af9e-4d88975ba649)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/4af1426e-85a0-4702-8804-b4187f1f9778)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/b5e5dc15-1d27-4635-909a-3fe2097a9e48)
+
 </details>
 
 ##
 <details>
-<summary> 5. 공지사항</summary>
-  ㅎㅎ
+<summary> 5. 공지사항</summary> <br/>
+
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/4f0b031f-9157-4082-bf7a-c7fb7220f9a7)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/4acc9472-f87e-4bac-bbfb-f1b8eea57673)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/457fd78e-787a-48da-bb66-4056805b9415)
+![image](https://github.com/sk4cks/DoranWorks-Project/assets/109573477/610fa91c-f45a-4c27-adea-2c50393e8a5d)
+
 </details>
 
 <br><br>
 
----
-## Ⅳ. Trouble Shooting
