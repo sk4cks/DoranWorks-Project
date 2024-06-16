@@ -43,7 +43,7 @@
 
 <details>
 <summary> 1. 회원 / 관리자</summary>
-  - 로그인
+### 1)로그인
  <img src="https://github.com/sk4cks/DoranWorks-Project/assets/109573477/342452f3-fbfe-4980-8e33-99ec9534e97b" width="350" height="400" />
 </details>
 
